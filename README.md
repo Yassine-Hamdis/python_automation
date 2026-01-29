@@ -73,7 +73,7 @@ Monitors EKS cluster and node status.
 ---
 
 ### `monitor-website.py`
-Monitors a website’s availability and response status.
+Monitors a website’s availability and response status, then notify the user.
 
 **Why it matters**
 - Simple uptime monitoring
